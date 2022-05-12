@@ -11,6 +11,8 @@ publishdate: 2021-04-28
 - **Elle** está conmovid**e**.
 - Las flores son para **elle**.
 - Yo **le** ayudo.
+- **Le** soñador**e**. *(Artículo definido)*
+- **Une** filólog**ue**. *(Artículo indefinido)*
 
 ## Plural
 
@@ -18,3 +20,5 @@ publishdate: 2021-04-28
 - **Elles** están conmovid**es**.
 - Las flores son para **elles**.
 - Yo **les** ayudo.
+- **Les** soñador**es**. *(Artículo definido)*
+- **Unes** filólog**ues**. *(Artículo indefinido)*
