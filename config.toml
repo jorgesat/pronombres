@@ -21,7 +21,7 @@ paginate     = 10
 
   # Metadata mostly used in document's head
   description = "prono.mbre.es"
-  keywords = "pronombre, inclusion, lenguaje inclusivo"
+  keywords = "pronombres, lenguaje neutral, lenguaje inclusivo"
   images = [""]
 
 [taxonomies]
