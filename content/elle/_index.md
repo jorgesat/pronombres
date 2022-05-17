@@ -30,7 +30,7 @@ publishdate: 2021-04-28
 - **Se** han ido a otra ciudad.
 - **Algunes** soñadores, **otres** de elles.
 - **Aquelles** pescadores.
-- **Les** impetuosoes.
+- **Les** impetuoses.
 - **Unes** coleccionistas.
 
 [^1]: *Pronombre personal*
