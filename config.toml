@@ -33,7 +33,7 @@ paginate     = 10
   [languages.en]
     title = "prono.mbre.es"
     subtitle = "Pronombres para un lenguaje inclusivo"
-    keywords = "pronombre"
+    keywords = "pronombres"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
