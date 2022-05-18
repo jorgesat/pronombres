@@ -22,7 +22,7 @@ publishdate: 2021-04-28
 ## Plural
 
 - **Ellas** quieren ser libres.
-- Ahí están ellos, **las** que se conmovieron.
+- Ahí están ellas, **las** que se conmovieron.
 - Las flores son para **ellas**.
 - Yo **las** ayudo.
 - Ya **les** llevé sus cosas.
